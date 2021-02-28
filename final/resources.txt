@@ -1,0 +1,20 @@
+
+1.)
+Country: 🇰🇷 Seoul, Korea
+Description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae nisi
+Image URL: https://images.pexels.com/photos/1637788/pexels-photo-1637788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+
+2.)
+Country: 🇹🇭 Bangkok, Thailand
+Description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae nisi
+Image URL: https://images.pexels.com/photos/1374377/pexels-photo-1374377.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+
+3.)
+Country: 🇩🇪 Berlin, Germany
+Description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae nisi
+Image URL: https://images.pexels.com/photos/280221/pexels-photo-280221.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+
+4.)
+Country: 🇮🇹 Rome, Italy
+Description: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae nisi
+Image URL: https://images.pexels.com/photos/3790996/pexels-photo-3790996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
